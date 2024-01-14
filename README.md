@@ -1,19 +1,24 @@
 # :man_technologist: José Waldir de Paula Neto
-![Insatgram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/waldir.dev/)
+
+[![Hello World, I'm Jasper!](assets/header.gif)](https://github.com/kshyun28)
+![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/waldir.dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-waldir-de-paula-neto/)](https://www.linkedin.com/in/jose-waldir-de-paula-neto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walldir@gmail.com)](mailto:walldir@gmail.com)
 
-## Hello and Welcome! 👋
+## Welcome! 👋
 
-My name is Waldir, I'm Brazilian living in Fortaleza(CE) at the moment.
+My name is Waldir, I'm Brazilian living in Fortaleza(CE) and working remotely to a Canadian company 🇨🇦.
 
-- :man_technologist: I'm a Senior Software Engineer.
+- :man_technologist: I'm a Senior Software Engineer with 9+ years of experience.
 - :green_heart: Techs: C#, ASP.NET Core, NodeJS, React, Next.js, Nestjs, AWS, AngularJS, Javascript...
 - :green_book: Databases: SQL Server, MySQL, PostgreSQL, MongoDB...
-- :books: Studying React, Microservices, Design Patterns ...
+- :books: Studying Microservices, Design Patterns, DSA...
 - :joystick: Hobbies: Games(Dota, CS), Movies(:ghost:), Series, Music...
 
----
+## Main Tech Stack 💻
+[![Main Tech Stack](https://skillicons.dev/icons?i=next,nest,dotnet,js,ts,aws,gcp)](https://skillicons.dev)
+
+
 
 ## Technologies 🤖
 
@@ -48,3 +53,9 @@ These are some of the technologies and tools that I work with:
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+## When I'm not coding 🎮
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white) &nbsp;
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) &nbsp;
+![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white) &nbsp;
+![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
