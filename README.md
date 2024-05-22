@@ -1,6 +1,6 @@
 # :man_technologist: José Waldir de Paula Neto
 
-[![Hello World, I'm Waldir!](assets/header.gif)](https://github.com/kshyun28)
+[![Hello World, I'm Waldir!](assets/header.gif)](https://github.com/walldir)
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/waldir.dev/)](https://www.instagram.com/waldir.dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-waldir-de-paula-neto/)](https://www.linkedin.com/in/jose-waldir-de-paula-neto/)
