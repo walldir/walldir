@@ -2,7 +2,7 @@
 
 [![Hello World, I'm Waldir!](assets/header.gif)](https://github.com/kshyun28)
 
-![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/waldir.dev/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/waldir.dev/)](https://www.instagram.com/waldir.dev/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jose-waldir-de-paula-neto/)](https://www.linkedin.com/in/jose-waldir-de-paula-neto/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walldir@gmail.com)](mailto:walldir@gmail.com)
 
